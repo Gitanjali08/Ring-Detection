@@ -1,0 +1,8 @@
+item { 
+	name:'Red ring'
+	id:1
+}
+item { 
+	name:'Blue ring'
+	id:2
+}

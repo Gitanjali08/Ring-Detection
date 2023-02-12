@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>20230203_122344.jpg</filename>
+	<path>C:\Users\shind\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\20230203_122344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3468</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blue ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>1472</ymin>
+			<xmax>2366</xmax>
+			<ymax>3112</ymax>
+		</bndbox>
+	</object>
+</annotation>
